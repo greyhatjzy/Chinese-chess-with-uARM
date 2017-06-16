@@ -132,8 +132,8 @@ DrawAllChess;
             %                play_chess(7,4);
             % ......................................................
             
-           % if (input('如果已经下完，请按Y：','s') =='y')     %代替motion detection
-                 pause(10); 
+          % if (input('如果已经下完，请按Y：','s') =='y')     %代替motion detection
+                 pause(8); 
                  pic2=getsnapshot(camera);
               %  pic2=imread('3.jpg');
                 im_board_orig_color = im2double(pic2);
@@ -175,7 +175,7 @@ DrawAllChess;
                 
         end
         
-        % end
+      %   end
     end
         
         
@@ -567,35 +567,10 @@ DrawAllChess;
             
         end
         
-        
-        
+    
     end
 
 
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
 %end
-
-
-
-
-
 
 
