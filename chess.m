@@ -169,6 +169,7 @@ DrawAllChess;
                 play_chess_black(x1,y1);
                 if move_or_kill==1
                     play_chess_black(x3,y3)
+                    move_or_kill==0;
                 else
                     play_chess_black(x2,y2)
                 end    
