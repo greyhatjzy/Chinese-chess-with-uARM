@@ -29,3 +29,7 @@ When running this code,you should install 2 Spport Package first.
 
 Reference：
 1.https://web.stanford.edu/class/ee368/Project_Autumn_1516/Reports/Yu.pdf
+
+
+Auto-place
+
