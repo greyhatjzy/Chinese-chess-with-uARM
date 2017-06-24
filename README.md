@@ -34,3 +34,4 @@ Reference：
 Auto-place
 
 Auto_place is an add function.It can fond the centers of Scattered chesses and then recognize it
+![Example_jpg](Auto_place_result.jpg)
