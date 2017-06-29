@@ -36,4 +36,8 @@ Auto-place
 ----------
 
 Auto-place is an add function.It can find the centers of Scattered chesses and then recognize it
+
+Video:
+https://youtu.be/XUtphr3TTZ4
+
 ![Example_jpg](Auto_place_result.jpg)
