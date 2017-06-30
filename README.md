@@ -1,4 +1,5 @@
-#Chinese-chess-with-uARM
+Chinese-chess-with-uARM
+=========================
 
 This is a project I am doing in my company.
 It uses SIFT to distinguish chess, and I would use CNN to repeat.
@@ -32,6 +33,11 @@ Reference：
 
 
 Auto-place
+----------
 
-Auto_place is an add function.It can find the centers of Scattered chesses and then recognize it
+Auto-place is an add function.It can find the centers of Scattered chesses and then recognize it
+
+Video:
+https://youtu.be/XUtphr3TTZ4
+
 ![Example_jpg](Auto_place_result.jpg)
