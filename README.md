@@ -18,7 +18,7 @@ When running this code,you should install 2 Spport Package first.
         
         
 #####  2.OS Genertic Video Interface
-* This is a MATLAB SUPPORT PACKAGE.It can using support package installer on matlab software’s home->Get Hardware Support Packages.and you can install USB Webcams if necessary.
+* This is a MATLAB SUPPORT PACKAGE.It can using support package installer on matlab software’s home->Get Hardware Support Packages and you can install USB Webcams if necessary.
 
 
 
@@ -34,7 +34,7 @@ When running this code,you should install 2 Spport Package first.
 Auto-place
 ----------
 
-Auto-place is an additional function.It can find the centers of Scattered chesses and then recognize it
+Auto-place is an additional function.It can find the centers of scattered chesses and then recognize it
 
 Video:
 https://youtu.be/XUtphr3TTZ4
