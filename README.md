@@ -34,7 +34,7 @@ When running this code,you should install 2 Spport Package first.
 Auto-place
 ----------
 
-Auto-place is an add function.It can find the centers of Scattered chesses and then recognize it
+Auto-place is an additional function.It can find the centers of Scattered chesses and then recognize it
 
 Video:
 https://youtu.be/XUtphr3TTZ4
