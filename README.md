@@ -18,7 +18,7 @@ When running this code,you should install 2 Spport Package first.
         
         
 #####  2.OS Genertic Video Interface
-* This is a MATLAB SUPPORT PACKAGE.It can use support package installer on matlab software’s home->Get Hardware Support Packages and you can install USB Webcams if necessary.
+* This is a MATLAB SUPPORT PACKAGE.Using support package installer on Matlab software’s home->Get Hardware Support Packages to install and you can install USB Webcams if necessary.
 
 
 
