@@ -1,7 +1,7 @@
 Chinese-chess-with-uARM
 =========================
 
-This is a project I am doing in my company.
+This is a project I engaged in for my company.
 It uses SIFT to distinguish chess, and I would use CNN to repeat.
 
 Video:
@@ -18,7 +18,7 @@ When running this code,you should install 2 Spport Package first.
         
         
 #####  2.OS Genertic Video Interface
-* This is a MATLAB SUPPORT PACKAGE.Using support package installer on Matlab software’s home->Get Hardware Support Packages to install and you can install USB Webcams if necessary.
+* This is a MATLAB SUPPORT PACKAGE.Using support package installer on Matlab software’s home->Get Hardware Support Packages to install and  install USB Webcams if necessary.
 
 
 
